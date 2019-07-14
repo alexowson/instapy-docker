@@ -5,6 +5,7 @@ RUN apt-get update \
       wget \
       gcc \
       g++ \
+      git \
       chromedriver \
     && wget -O '/tmp/requirements.txt' https://raw.githubusercontent.com/alexowson/instapy-docker/master/requirements.txt \
     && pip install --no-cache-dir -U -r /tmp/requirements.txt \
