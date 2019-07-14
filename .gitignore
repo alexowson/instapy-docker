@@ -3,3 +3,5 @@ docker-compose/InstaPy
 
 # Ignore docker_quickstart.py
 docker-compose/docker_quickstart.py
+
+.idea
