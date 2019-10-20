@@ -1,2 +1,2 @@
-git+https://github.com/alexowson/InstaPy.git@gui
+instapy==0.6.4
 schedule==0.6.0
